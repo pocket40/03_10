@@ -18,5 +18,14 @@
     <ClCompile Include="typdef_struct.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="namespace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="namespace01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="using_Directive.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

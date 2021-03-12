@@ -21,4 +21,6 @@ int main()
 	printf("이름:%s\n", p1.name);
 	printf("이름:%d\n", p1.age);
 	printf("이름:%s\n", p1.address);
+
+
 }
